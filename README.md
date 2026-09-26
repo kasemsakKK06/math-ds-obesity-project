@@ -9,10 +9,10 @@
 
 ### 👥 สมาชิกในกลุ่มและหน้าที่รับผิดชอบ (Team Members & Roles)
 
-| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล | บทบาทและหน้าที่รับผิดชอบ (Responsibilities) |
+| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล | หน้าที่รับผิดชอบหลัก (Responsibilities) |
 | :---: | :---: | :---: | :--- |
-| 1 | 68114540090 | นายเขษมศักดิ์ แก่นทน | • **Data Understanding & Preprocessing:** สำรวจโครงสร้างข้อมูล, จัดการ Categorical Encoding และทำ Feature Standardization<br>• **Linear Algebra Analysis (CLO1):** คำนวณ Covariance Matrix และวิเคราะห์ PCA / SVD เพื่อลดมิติข้อมูล<br>• **Model Evaluation (CLO3–4):** คำนวณ Confusion Matrix, Macro F1 และสรุปผล Best Model จาก Cross-Validation |
-| 2 | 6xxxxxxxx-x | [ชื่อ - นามสกุล คู่ทำโปรเจกต์] | • **Exploratory Data Analysis (CLO2):** วิเคราะห์สถิติเชิงพรรณนา, สร้าง Data Visualization และอธิบาย Insight<br>• **Hypothesis Testing (CLO2):** ทดสอบสมมติฐานทางสถิติ (Chi-Square & ANOVA / Mann-Whitney U)<br>• **Model Building & CV (CLO3–4):** สร้างแบบจำลอง Multi-class Classification และทดสอบ k-Fold Cross-Validation |
+| 1 | 68114540090 | นายเขษมศักดิ์ แก่นทน | • **Preprocessing:** จัดการข้อมูล, ทำ Encoding และ Feature Scaling<br>• **CLO1 (Linear Algebra):** คำนวณ Covariance Matrix และวิเคราะห์ PCA[cite: 2, 3]<br>• **CLO3–4 (Evaluation):** ประเมินผลโมเดล (Confusion Matrix, Macro F1) และสรุป Best Model[cite: 2, 3] |
+| 2 | 6xxxxxxxx-x | [ชื่อ - นามสกุล คู่ทำโปรเจกต์] | • **CLO2 (EDA):** วิเคราะห์สถิติเชิงพรรณนาและสร้าง Data Visualization[cite: 2, 3]<br>• **CLO2 (Stats):** ทดสอบสมมติฐานทางสถิติ (Chi-Square, ANOVA)[cite: 2, 4]<br>• **CLO3–4 (Modeling):** สร้างโมเดล Multi-class และทดสอบ k-Fold Cross-Validation[cite: 2, 3] |
 
 ---
 
@@ -31,12 +31,12 @@
 
 | คุณสมบัติ (Property) | รายละเอียด (Detail) |
 | :--- | :--- |
-| **ชื่อชุดข้อมูล** | Estimation of Obesity Levels Based On Eating Habits and Physical Condition[cite: 5] |
-| **แหล่งที่มา** | UCI Machine Learning Repository / Kaggle[cite: 5] |
-| **ขนาดข้อมูล** | 2,111 แถว (Observations), 17 คอลัมน์ (Features) — *ผ่านเกณฑ์ขั้นต่ำ $\ge 500$ แถว, $\ge 5$ ตัวแปร*[cite: 5] |
-| **ประเภทโจทย์** | Multi-class Classification (จำแนกกลุ่ม 7 ระดับ)[cite: 5, 6] |
-| **ตัวแปรเป้าหมาย (Target)** | `NObeyesdad` (ระดับภาวะน้ำหนักตัวและโรคอ้วน)[cite: 6] |
-| **สัดส่วนข้อมูลสูญหาย** | 0 ค่า (ไม่มี Missing Values)[cite: 7] |
+| **ชื่อชุดข้อมูล** | Estimation of Obesity Levels Based On Eating Habits and Physical Condition |
+| **แหล่งที่มา** | UCI Machine Learning Repository / Kaggle |
+| **ขนาดข้อมูล** | 2,111 แถว (Observations), 17 คอลัมน์ (Features) — *ผ่านเกณฑ์ขั้นต่ำ $\ge 500$ แถว, $\ge 5$ ตัวแปร* |
+| **ประเภทโจทย์** | Multi-class Classification (จำแนกกลุ่ม 7 ระดับ) |
+| **ตัวแปรเป้าหมาย (Target)** | `NObeyesdad` (ระดับภาวะน้ำหนักตัวและโรคอ้วน) |
+| **สัดส่วนข้อมูลสูญหาย** | 0 ค่า (ไม่มี Missing Values) |
 
 ---
 
