@@ -11,8 +11,8 @@
 
 | ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล | หน้าที่รับผิดชอบหลัก (Responsibilities) |
 | :---: | :---: | :---: | :--- |
-| 1 | 68114540090 | นายเขษมศักดิ์ แก่นทน | • **Preprocessing:** จัดการข้อมูล, ทำ Encoding และ Feature Scaling<br>• **CLO1 (Linear Algebra):** คำนวณ Covariance Matrix และวิเคราะห์ PCA[cite: 2, 3]<br>• **CLO3–4 (Evaluation):** ประเมินผลโมเดล (Confusion Matrix, Macro F1) และสรุป Best Model[cite: 2, 3] |
-| 2 | 6xxxxxxxx-x | [ชื่อ - นามสกุล คู่ทำโปรเจกต์] | • **CLO2 (EDA):** วิเคราะห์สถิติเชิงพรรณนาและสร้าง Data Visualization[cite: 2, 3]<br>• **CLO2 (Stats):** ทดสอบสมมติฐานทางสถิติ (Chi-Square, ANOVA)[cite: 2, 4]<br>• **CLO3–4 (Modeling):** สร้างโมเดล Multi-class และทดสอบ k-Fold Cross-Validation[cite: 2, 3] |
+| 1 | 68114540090 | นายเขษมศักดิ์ แก่นทน | • **Preprocessing:** จัดการข้อมูล, ทำ Encoding และ Feature Scaling<br>• **CLO1 (Linear Algebra):** คำนวณ Covariance Matrix และวิเคราะห์ PCA<br>• **CLO3–4 (Evaluation):** ประเมินผลโมเดล (Confusion Matrix, Macro F1) และสรุป Best Model |
+| 2 | 6xxxxxxxx-x | [ชื่อ - นามสกุล คู่ทำโปรเจกต์] | • **CLO2 (EDA):** วิเคราะห์สถิติเชิงพรรณนาและสร้าง Data Visualization<br>• **CLO2 (Stats):** ทดสอบสมมติฐานทางสถิติ (Chi-Square, ANOVA)<br>• **CLO3–4 (Modeling):** สร้างโมเดล Multi-class และทดสอบ k-Fold Cross-Validation |
 
 ---
 
