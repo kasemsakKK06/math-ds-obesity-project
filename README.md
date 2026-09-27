@@ -9,10 +9,10 @@
 
 ### 👥 สมาชิกในกลุ่มและหน้าที่รับผิดชอบ (Team Members & Roles)
 
-| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล | หน้าที่รับผิดชอบหลัก (Responsibilities) |
-| :---: | :---: | :---: | :--- |
-| 1 | 68114540090 | นายเขษมศักดิ์ แก่นทน | • **Preprocessing:** จัดการข้อมูล, ทำ Encoding และ Feature Scaling<br>• **CLO1 (Linear Algebra):** คำนวณ Covariance Matrix และวิเคราะห์ PCA<br>• **CLO3–4 (Evaluation):** ประเมินผลโมเดล (Confusion Matrix, Macro F1) และสรุป Best Model |
-| 2 | 6xxxxxxxx-x | [ชื่อ - นามสกุล คู่ทำโปรเจกต์] | • **CLO2 (EDA):** วิเคราะห์สถิติเชิงพรรณนาและสร้าง Data Visualization<br>• **CLO2 (Stats):** ทดสอบสมมติฐานทางสถิติ (Chi-Square, ANOVA)<br>• **CLO3–4 (Modeling):** สร้างโมเดล Multi-class และทดสอบ k-Fold Cross-Validation |
+| ลำดับ | รหัสนักศึกษา | ชื่อ - นามสกุล       | หน้าที่หลัก                                 |
+| :---: | :----------- | :------------------- | :------------------------------------------ |
+|   1   | 68114540090  | นายเขษมศักดิ์ แก่นทน | Preprocessing, PCA, Model Evaluation        |
+|   2   | 68114540184 | นายณัฐดนัย ทองสรรค์     | EDA, Statistics, Modeling, Cross-Validation |
 
 ---
 
@@ -20,10 +20,10 @@
 
 | หมวด | วัตถุประสงค์เชิงการเรียนรู้ (CLO) | รายละเอียดที่นำมาประยุกต์ใช้ | สถานะ |
 | :---: | :--- | :--- | :---: |
-| **CLO1** | **Linear Algebra Analysis** | • คำนวณ Covariance Matrix $C = \frac{1}{n-1} X^T X$<br>• Eigendecomposition และทำ PCA ลดมิติข้อมูลเหลือ 2D พร้อมพล็อต Scree Plot | ⬜ กำลังดำเนินการ |
-| **CLO2** | **Statistical Learning & EDA** | • ตรวจสอบการกระจายตัว (Normality, Skewness, Outliers)<br>• ทดสอบสมมติฐานทางสถิติเพื่อคัดเลือกตัวแปรสำคัญ<br>• อภิปรายความซับซ้อนของแบบจำลอง (Bias-Variance Trade-off) | ⬜ กำลังดำเนินการ |
-| **CLO3** | **Classification Models** | • สร้างแบบจำลอง Multi-class Classification อย่างน้อย 2 ชนิด (Multinomial Logistic Regression, KNN, LDA)<br>• วัดผลด้วย Multi-class Accuracy และ Confusion Matrix | ⬜ กำลังดำเนินการ |
-| **CLO4** | **Model Selection & CV** | • เปรียบเทียบโมเดลด้วย 5-Fold Stratified Cross-Validation<br>• สรุปผลคัดเลือก Best Model อย่างมีหลักการทางคณิตศาสตร์ | ⬜ กำลังดำเนินการ |
+| **CLO1** | **Linear Algebra Analysis** | • Covariance Matrix<br>• Eigendecomposition และ PCA | ⬜ |
+| **CLO2** | **Statistical Learning & EDA** | • EDA และ Descriptive Statistics<br>• Correlation และ Outlier Analysis | ⬜ |
+| **CLO3** | **Model Building** | • Linear Regression<br>• Logistic Regression และ Classification | ⬜ |
+| **CLO4** | **Model Selection & CV** | • Cross-Validation<br>• Model Comparison | ⬜ |
 
 ---
 
