@@ -33,7 +33,7 @@
 | :--- | :--- |
 | **ชื่อชุดข้อมูล** | Estimation of Obesity Levels Based On Eating Habits and Physical Condition |
 | **แหล่งที่มา** | UCI Machine Learning Repository / Kaggle |
-| **ขนาดข้อมูล** | 2,111 แถว (Observations), 17 คอลัมน์ (Features) — *ผ่านเกณฑ์ขั้นต่ำ $\ge 500$ แถว, $\ge 5$ ตัวแปร* |
+| **ขนาดข้อมูล** | 2,111 แถว (Observations), 17 คอลัมน์ (Features) |
 | **ประเภทโจทย์** | Multi-class Classification (จำแนกกลุ่ม 7 ระดับ) |
 | **ตัวแปรเป้าหมาย (Target)** | `NObeyesdad` (ระดับภาวะน้ำหนักตัวและโรคอ้วน) |
 | **สัดส่วนข้อมูลสูญหาย** | 0 ค่า (ไม่มี Missing Values) |
@@ -60,7 +60,7 @@
 | `TUE` | Numerical | 0.00 – 2.00 | ระยะเวลาใช้งานหน้าจอหรืออุปกรณ์อิเล็กทรอนิกส์ต่อวัน |
 | `SMOKE` | Categorical | `yes`, `no` | พฤติกรรมการสูบบุหรี่ |
 | `MTRANS` | Categorical | `Public_Transportation`, `Automobile`, `Walking`, `Motorbike`, `Bike` | รูปแบบการเดินทางหลักที่ใช้ในชีวิตประจำวัน |
-| `NObeyesdad` | Categorical | 7 ระดับ (เป้าหมาย) | ระดับภาวะน้ำหนักตัวและโรคอ้วน[cite: 6] |
+| `NObeyesdad` | Categorical | 7 ระดับ (เป้าหมาย) | ระดับภาวะน้ำหนักตัวและโรคอ้วน |
 
 ---
 
