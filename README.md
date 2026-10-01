@@ -1,12 +1,12 @@
-# 📊 Final-Project: การวิเคราะห์ปัจจัยด้านวิถีชีวิตและสภาพร่างกายที่เกี่ยวข้องกับระดับน้ำหนักตัวและภาวะโรคอ้วน
+# Final-Project: การวิเคราะห์ปัจจัยด้านวิถีชีวิตและสภาพร่างกายที่เกี่ยวข้องกับระดับน้ำหนักตัวและภาวะโรคอ้วน
 ### (Analysis of Lifestyle and Physical Factors Associated with Body Weight and Obesity Levels)
+
+> **รายวิชา:** 1145 201 คณิตศาสตร์สำหรับวิทยาการข้อมูล (Mathematics for Data Science)  
+> **ภาคการศึกษา:** 1/2569
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
-
-> **รายวิชา:** 1145 201 คณิตศาสตร์สำหรับวิทยาการข้อมูล (Mathematics for Data Science)  
-> **ภาคการศึกษา:** 1/2569
 
 ---
 
